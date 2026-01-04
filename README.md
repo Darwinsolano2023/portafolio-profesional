@@ -15,7 +15,7 @@ El proyecto cuenta con **despliegue automático (CI/CD)** mediante **GitHub Acti
 ## 🧩 Secciones del portafolio
 
 - 🧑‍💼 Presentación personal
-- 🛠️ Habilidades técnicas
+- 🛠️ Servicios & Habilidades técnicas
 - 📂 Proyectos destacados
 - 🧠 Experiencia profesional
 - 📞 Información de contacto
