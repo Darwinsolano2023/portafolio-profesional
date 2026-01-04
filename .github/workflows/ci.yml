@@ -24,7 +24,7 @@ jobs:
         run: npm install
 
       - name: 🧪 Ejecutar tests
-        run: npm run test -- --run || echo "Tests aún no definidos"
+        run: npm run test -- --run
 
       - name: 🏗️ Construir proyecto
         run: npm run build
