@@ -85,7 +85,8 @@ const Contact = () => {
             </div>
           </div>
         </div>
-
+        
+        {/*
         <div className="bg-gradient-to-br from-gray-800 to-gray-900 p-8 rounded-xl border border-primary-900/30">
           <div className="space-y-6">
             <div className="grid md:grid-cols-2 gap-6">
@@ -130,9 +131,11 @@ const Contact = () => {
             </button>
           </div>
         </div>
+        */}
       </div>
     </section>
   );
 };
+
 
 export default Contact;
