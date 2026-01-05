@@ -3,7 +3,7 @@ export const personalInfo = {
   name: "Darwin Solano Álvarez",
   title: "Ingeniero de Software",
   subtitle: "Especializado en Analítica & Big Data",
-  description: "+15 años transformando datos en soluciones estratégicas con Python, Azure, BigQuery y arquitecturas Full Stack",
+  description: "+16 años transformando datos en soluciones estratégicas con Python, Azure, BigQuery y arquitecturas Full Stack",
   contact: {
     email: "darwinsolano2022@gmail.com",
     phone: "+57 316 642 3014",
@@ -12,7 +12,7 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/darwin-solano-alvarez/"
   },
   stats: [
-    { number: "15+", label: "Años de Experiencia" },
+    { number: "16+", label: "Años de Experiencia" },
     { number: "50+", label: "Estudiantes Formados" },
     { number: "40%", label: "Optimización Lograda" },
     { number: "20+", label: "Proyectos Completados" }

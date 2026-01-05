@@ -1,18 +1,16 @@
+# Portafolio Profesional – React
 
-# 👨‍💻 Portafolio Profesional – Darwin Solano
+[![CI](https://github.com/Darwinsolano2023/portafolio-profesional/actions/workflows/ci.yml/badge.svg)](https://github.com/Darwinsolano2023/portafolio-profesional/actions/workflows/ci.yml)
+[![Vercel](https://vercelbadge.vercel.app/api/Darwinsolano2023/portafolio-profesional)](https://portafolio-profesional-bice.vercel.app/)
 
-Portafolio personal desarrollado en **React** con **Tailwind CSS**, donde presento mi perfil profesional, habilidades técnicas y proyectos destacados en desarrollo de software, automatización y analítica de datos.
+Portafolio profesional desarrollado con **React + Vite**, enfocado en buenas prácticas, pruebas automáticas y despliegue continuo.
 
-El proyecto cuenta con **despliegue automático (CI/CD)** mediante **GitHub Actions**, garantizando actualizaciones rápidas y seguras.
-
----
-
-## 🌐 Demo en vivo
-👉 https://tu-dominio.com
+**Demo en producción:**  
+https://portafolio-profesional-bice.vercel.app/
 
 ---
 
-## 🧩 Secciones del portafolio
+## Secciones del portafolio
 
 - 🧑‍💼 Presentación personal
 - 🛠️ Servicios & Habilidades técnicas
@@ -29,11 +27,12 @@ El proyecto cuenta con **despliegue automático (CI/CD)** mediante **GitHub Acti
 - JavaScript
 - Vite
 - Git y GitHub
-- GitHub Actions (CI/CD)
+- GitHub Actions (CI)
+- Vercel (CD)
 
 ---
 
-## 🚀 CI/CD – Despliegue automático
+## CI/CD – Despliegue automático
 
 Este portafolio utiliza **GitHub Actions** para:
 
@@ -43,7 +42,15 @@ Este portafolio utiliza **GitHub Actions** para:
 
 ---
 
-## 📦 Instalación y ejecución local
+## Testing
+
+Las pruebas validan la estructura y consistencia de los datos del portafolio:
+
+- Información personal
+- Habilidades técnicas
+- Proyectos
+
+## Instalación y ejecución local
 
 ```bash
 git clone https://github.com/Darwinsolano2023/portafolio-react.git
@@ -54,31 +61,14 @@ npm run dev
 
 ---
 
-## 📁 Estructura del proyecto
-
-```bash
-src/
-├── components/
-├── sections/
-├── assets/
-├── styles/
-└── App.jsx
-```
-
----
-
-## 🎯 Objetivo
+## Objetivo
 
 Este proyecto funciona como carta de presentación digital, permitiendo mostrar experiencia, proyectos y competencias técnicas de forma clara y profesional.
 
 ---
 
-## 📬 Contacto
+## Contacto
 
-- LinkedIn: https://linkedin.com
-- Email: tu-correo@dominio.com
-- Portafolio: https://tu-dominio.com
-
----
-
-⭐ Si este proyecto te resulta útil, considera darle una estrella.
+- LinkedIn: https://www.linkedin.com/in/darwin-solano-alvarez/
+- Email: tdarwinsolano2022@gmail.com
+- Portafolio: https://portafolio-profesional-bice.vercel.app/
