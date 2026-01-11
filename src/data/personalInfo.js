@@ -3,7 +3,6 @@ export const personalInfo = {
   name: "Darwin Solano Álvarez",
   title: "Ingeniero de Software",
   subtitle: "Especializado en Analítica & Big Data",
-  description: "+16 años transformando datos en soluciones estratégicas con Python, Azure, BigQuery y arquitecturas Full Stack",
   contact: {
     email: "darwinsolano2022@gmail.com",
     phone: "+57 316 642 3014",
@@ -13,12 +12,12 @@ export const personalInfo = {
   },
   stats: [
     { number: "16+", label: "Años de Experiencia" },
+    { number: "30+", label: "Proyectos Completados" },
     { number: "50+", label: "Estudiantes Formados" },
-    { number: "40%", label: "Optimización Lograda" },
-    { number: "20+", label: "Proyectos Completados" }
+    { number: "40%", label: "Optimización Lograda" }
   ],
   about: {
-    paragraph1: "Ingeniero de Software Senior y Especialista en Datos con más de 15 años de experiencia construyendo, integrando y escalando plataformas digitales orientadas a negocio. Especializado en arquitectura de software moderna, pipelines de datos end-to-end, automatización avanzada con Python y analítica estratégica, transformando datos en insights accionables mediante soluciones en Azure y Google BigQuery.",
-    paragraph2: "Experiencia liderando iniciativas con microservicios, APIs RESTful, cloud computing, CI/CD y metodologías ágiles (SCRUM), combinando excelencia técnica, pensamiento analítico y liderazgo para acelerar la transformación digital y la innovación tecnológica."
+    paragraph1: "Ingeniero de Software y Especialista en Datos con más de 15 años de experiencia creando y escalando soluciones digitales orientadas a resultados de negocio. Experto en arquitectura de sistemas, automatización de procesos y analítica estratégica, con enfoque en transformar datos complejos en información accionable que impulsa la toma de decisiones.",
+    paragraph2: "Sólida experiencia liderando equipos y proyectos de software complejos, aplicando enfoques modernos de arquitectura, mejora continua y trabajo ágil. Capacidad comprobada para integrar liderazgo, análisis estratégico y calidad técnica en procesos de transformación digital."
   }
 };

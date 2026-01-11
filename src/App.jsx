@@ -1,5 +1,6 @@
 // src/App.jsx
 import React from 'react';
+import { ThemeProvider } from './context/ThemeContext';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 import Hero from './components/sections/Hero';
@@ -12,17 +13,19 @@ import Contact from './components/sections/Contact';
 
 function App() {
   return (
-    <div className="bg-black text-gray-100 min-h-screen">
-      <Navbar />
-      <Hero />
-      <About />
-      <Services />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Contact />
-      <Footer />
-    </div>
+    <ThemeProvider>
+      <div className="bg-slate-50 dark:bg-black text-slate-900 dark:text-slate-100 min-h-screen transition-colors duration-300">
+        <Navbar />
+        <Hero />
+        <About />
+        <Services />
+        <Skills />
+        <Experience />
+        <Projects />
+        <Contact />
+        <Footer />
+      </div>
+    </ThemeProvider>
   );
 }
 
