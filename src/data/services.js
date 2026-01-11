@@ -5,31 +5,31 @@ export const services = [
   {
     icon: Code,
     title: "Desarrollo Full Stack",
-    description: "Aplicaciones web y móviles con Laravel, Angular, React, Node.js e Ionic. Arquitectura escalable y APIs RESTful."
+    description: "Soluciones digitales end-to-end para web y móvil. Diseño y construcción de aplicaciones escalables, APIs robustas y arquitecturas modernas enfocadas en rendimiento, seguridad y experiencia de usuario."
   },
   {
     icon: Database,
     title: "Integración de Sistemas & APIs",
-    description: "Conexión de plataformas mediante APIs RESTful con OAuth 2.0, JWT y sincronización de datos en tiempo real."
+    description: "Conectamos plataformas y servicios mediante APIs seguras y escalables, habilitando interoperabilidad, automatización y sincronización de datos en tiempo real."
   },
   {
     icon: TrendingUp,
     title: "Analítica & Big Data",
-    description: "ETL Pipelines con Python, BigQuery, procesamiento de grandes volúmenes de datos y análisis avanzado."
+    description: "Convertimos datos complejos en información estratégica mediante procesamiento avanzado, automatización y analítica de alto nivel."
   },
   {
     icon: Cloud,
     title: "Cloud Solutions",
-    description: "Arquitecturas en Azure y GCP, Data Factory, BigQuery, CI/CD, Docker y despliegue automatizado."
+    description: "Construcción de soluciones cloud escalables con pipelines automatizados, contenedores y prácticas DevOps para garantizar eficiencia, confiabilidad y crecimiento."
   },
   {
     icon: Award,
     title: "Business Intelligence",
-    description: "Dashboards interactivos en Power BI y Looker Studio con KPIs automatizados y reportes ejecutivos."
+    description: "Diseño de dashboards interactivos y reportes ejecutivos que convierten datos en KPIs claros, automatizados y accionables para la toma de decisiones."
   },
   {
     icon: Briefcase,
-    title: "Automatización Python",
-    description: "Scripts de automatización, procesamiento de datos con pandas/NumPy y reducción de tareas manuales."
+    title: "Automatización de Procesos",
+    description: "Diseño de flujos automatizados con n8n para integrar sistemas, procesar datos y eliminar tareas manuales, mejorando eficiencia operativa y escalabilidad."
   }
 ];

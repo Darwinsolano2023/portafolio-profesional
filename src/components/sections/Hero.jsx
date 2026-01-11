@@ -31,7 +31,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center w-full">
         <div className="mb-4">
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-2">
-            <span className="bg-gradient-to-r from-primary-600 via-accent-500 to-primary-700 dark:from-accent-400 dark:via-primary-500 dark:to-accent-500 bg-clip-text text-transparent">
+            <span className="text-primary-700 dark:bg-gradient-to-r dark:from-accent-400 dark:via-primary-500 dark:to-accent-500 dark:bg-clip-text dark:text-transparent">
               {personalInfo.name}
             </span>
           </h1>
