@@ -70,5 +70,5 @@ Este proyecto funciona como carta de presentación digital, permitiendo mostrar 
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/darwin-solano-alvarez/
-- Email: tdarwinsolano2022@gmail.com
-- Portafolio: https://portafolio-profesional-bice.vercel.app/
+- Email: darwinsolano2022@gmail.com
+- Portafolio: https://portfolio.ids-core.com/
